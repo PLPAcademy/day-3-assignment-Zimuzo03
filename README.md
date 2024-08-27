@@ -78,7 +78,7 @@ D) To enhance Python performance on your system
 What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell
-B) Download MySQL Installer from the official website
+**B) Download MySQL Installer from the official website**
 C) Install MySQL Workbench
 D) Set up a root password
 
